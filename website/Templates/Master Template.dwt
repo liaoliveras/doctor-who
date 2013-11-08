@@ -10,6 +10,7 @@
 		<!-- TemplateParam name="The Doctor Secondary Menu" type="boolean" value="false" -->
 		<!-- TemplateParam name="Companions Secondary Menu" type="boolean" value="false" -->
 		<!-- TemplateParam name="Villians Secondary Menu" type="boolean" value="false" -->
+		<!-- TemplateParam name="Villains Secondary Menu" type="boolean" value="false" -->
 	</head>
 	
 	<body>
@@ -89,7 +90,7 @@
 							<td height="21"><a href="../companions/river-song.html">River Song</a></td>
 						</tr>
 					</table>
-					<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Villians Secondary Menu']" -->
+					<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Villains Secondary Menu']" -->
 					<table width="152">
 						<tr>
 							<td><a href="../villains/daleks.html">Daleks</a></td>
