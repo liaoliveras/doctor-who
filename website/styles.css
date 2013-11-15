@@ -1,4 +1,4 @@
-p {
-	border: solid 1px #ff0000;
-	font: 32px arial;
-}
+.doctor-who-content img
+	{
+		float: left; 
+	}
